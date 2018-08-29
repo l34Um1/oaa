@@ -42,7 +42,7 @@
       "01"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "blast_speed"                                     "1500"
+        "blast_speed"                                     "500"
       }
 
       "02"
