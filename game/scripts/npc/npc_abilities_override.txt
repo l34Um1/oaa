@@ -576,4 +576,9 @@
   "item_skadi"                    "REMOVE"
   "item_manta"					  "REMOVE"
   "item_hand_of_midas"            "REMOVE"
+  "item_black_king_bar"			  "REMOVE"
+  "item_silver_edge"			  "REMOVE"
+  "item_invis_sword"			  "REMOVE"
+  "item_talisman_of_evasion"      "REMOVE"
+  "item_diffusal_blade"           "REMOVE"
 }

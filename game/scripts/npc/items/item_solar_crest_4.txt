@@ -77,12 +77,12 @@
       "03"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "self_bonus_evasion"                              "15"
+        "self_bonus_evasion"                              "0"
       }
       "04"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "bonus_evasion"                                   "20"
+        "bonus_evasion"                                   "0"
       }
       "05"
       {

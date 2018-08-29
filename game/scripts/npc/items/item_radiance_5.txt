@@ -72,7 +72,7 @@
       "05"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "blind_pct"                                       "17"
+        "blind_pct"                                       "0"
       }
       "06"
       {

@@ -7,7 +7,7 @@
   {
     // Abilities
     //-------------------------------------------------------------------------------------------------------------
-    "Ability2"   "dark_seer_vacuum"
+    "Ability2"   "disruptor_glimpse"
     "Ability3"	 "skeleton_king_hellfire_blast"
   }
 }
