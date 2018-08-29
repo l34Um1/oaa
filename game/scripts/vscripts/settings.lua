@@ -14,10 +14,10 @@ RESPAWN_TIME_TABLE = {} -- Lookup table mapping level to respawn time. Can be us
 -- Set function to calculate respawn time based on level
 setmetatable(RESPAWN_TIME_TABLE, {
   __index = function (table, key)
-    local minLevel = 1
+    local minLevel = 3
     local maxLevel = 49
     local minTime = 5
-    local maxTime = 20
+    local maxTime = 25
     local clampedLevel = math.min(maxLevel, key)
     -- Store result instead of recalculating for lookups for the same level
     -- Linear interpolation between min and max level/time pairs
@@ -71,7 +71,7 @@ FIRST_DUEL_TIMEOUT = 110                -- Timeout for the level 1 duel at the s
 FINAL_DUEL_TIMEOUT = 300                -- Timeout for the final duel, the game cannot end unless this duel completes without timing out
 DUEL_END_COUNTDOWN = 10                 -- How many seconds to count down before a duel can timeout (added as a delay before the duel times out)
 DUEL_RUNE_TIMER = 30                    -- how long until the highground object becomes active in duels
-DUEL_INTERVAL = 300                     -- time from duel ending until dnext duel countdown begins
+DUEL_INTERVAL = 600                     -- time from duel ending until dnext duel countdown begins
 DUEL_START_PROTECTION_TIME = 2          -- duel start protection duration
 
 -- CapturePoints
@@ -169,8 +169,8 @@ USE_CUSTOM_XP_VALUES = true             -- Should we use custom XP values to lev
 -- Fill this table up with the required XP per level if you want to change it
 XP_PER_LEVEL_TABLE = {
 	0,
-	240,
-	600,
+	0,
+	0,
 	1080,
 	1680,
 	2300,
@@ -200,7 +200,7 @@ end
 
 ENABLE_FIRST_BLOOD = true               -- Should we enable first blood for the first kill in this game?
 HIDE_KILL_BANNERS = false               -- Should we hide the kill banners that show when a player is killed?
-LOSE_GOLD_ON_DEATH = true               -- Should we have players lose the normal amount of dota gold on death?
+LOSE_GOLD_ON_DEATH = false              -- Should we have players lose the normal amount of dota gold on death?
 SHOW_ONLY_PLAYER_INVENTORY = false      -- Should we only allow players to see their own inventory even when selecting other units?
 DISABLE_STASH_PURCHASING = false        -- Should we prevent players from being able to buy items into their stash when not at a shop?
 DISABLE_ANNOUNCER = false               -- Should we disable the announcer from working in the game?

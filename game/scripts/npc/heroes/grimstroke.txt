@@ -1,13 +1,13 @@
 "DOTAHeroes"
 {
   //=================================================================================================================
-  // HERO: Crystal Maiden
+  // HERO: Grimstroke
   //=================================================================================================================
-  "npc_dota_hero_crystal_maiden"
+  "npc_dota_hero_grimstroke"
   {
     // Abilities
     //-------------------------------------------------------------------------------------------------------------
-    "Ability3"	  "bloodseeker_thirst"
-    "Ability13"   "special_bonus_spell_amplify_15" // replaces special_bonus_gold_income_25
+    "Ability2"   "dark_seer_vacuum"
+    "Ability3"	 "skeleton_king_hellfire_blast"
   }
 }

@@ -7,6 +7,7 @@
   {
     // Abilities
     //-------------------------------------------------------------------------------------------------------------
-    "Ability6"   "furion_wrath_of_nature_oaa" //replaces furion_wrath_of_nature
+    "Ability2"	 "shredder_timber_chain"
+    "Ability6"   "enchantress_impetus"
   }
 }

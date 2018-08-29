@@ -32,23 +32,23 @@
       "03"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "bonus_damage"                                    "7 18 29 40 52 64"
+        "bonus_damage"                                    "0" //OAA
         "LinkedSpecialBonus"                              "special_bonus_unique_bloodseeker_4"
       }
       "04"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "max_bonus_pct"                                   "25"
+        "max_bonus_pct"                                   "35"
       }
       "05"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "visibility_threshold_pct"                        "25"
+        "visibility_threshold_pct"                        "35"
       }
       "06"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "invis_threshold_pct"                             "25"
+        "invis_threshold_pct"                             "35"
       }
     }
   }

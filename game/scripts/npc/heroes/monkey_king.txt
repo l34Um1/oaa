@@ -1,13 +1,14 @@
 "DOTAHeroes"
 {
   //=================================================================================================================
-  // HERO: Crystal Maiden
+  // HERO: Monkey King
   //=================================================================================================================
-  "npc_dota_hero_crystal_maiden"
+  "npc_dota_hero_monkey_king"
   {
     // Abilities
     //-------------------------------------------------------------------------------------------------------------
-    "Ability3"	  "bloodseeker_thirst"
-    "Ability13"   "special_bonus_spell_amplify_15" // replaces special_bonus_gold_income_25
+    "Ability2"	  "sven_warcry"
+    "Ability3"	  ""
+    "Ability6"	  "life_stealer_infest"
   }
 }
