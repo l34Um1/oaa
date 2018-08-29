@@ -39,7 +39,7 @@
     "AbilityTextureName"                                  "custom/blade_mail_1"
     // Stats
     //-------------------------------------------------------------------------------------------------------------
-    "AbilityCooldown"                                     "20.0"
+    "AbilityCooldown"                                     "0"
     "AbilitySharedCooldown"                               "blademail"
 
     // Spicy Parameters
@@ -49,7 +49,7 @@
     "UpgradesItems"                                       "item_blade_mail;item_blade_mail_2;item_blade_mail_3;item_blade_mail_4"
     // Item Info
     //-------------------------------------------------------------------------------------------------------------
-    "AbilityManaCost"                                     "25"
+    "AbilityManaCost"                                     "0"
     "ItemCost"                                            "2200"
     "ItemShopTags"                                        "damage;armor;int;hard_to_tag"
     "ItemQuality"                                         "epic"
@@ -78,7 +78,7 @@
       "04"
       {
         "var_type"                                        "FIELD_FLOAT"
-        "duration"                                        "3.0 3.5 4.0 4.5 5.0" // OAA
+        "duration"                                        "0" // OAA
       }
     }
   }
