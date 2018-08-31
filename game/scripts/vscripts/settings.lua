@@ -39,7 +39,7 @@ TEN_V_TEN_KILL_LIMIT = 150
 
 -- poop wards
 POOP_WARD_DURATION = 360
-POOP_WARD_COOLDOWN = 120
+POOP_WARD_COOLDOWN = 60
 POOP_WARD_RADIUS = 150
 
 -- scan reveal
@@ -63,7 +63,7 @@ PREGAME_TIME = 10
 AP_GAME_TIME = 90
 
 -- Duels
-INITIAL_DUEL_DELAY = 15                 -- how long after the clock hits 0 should the initial duel start countind down
+INITIAL_DUEL_DELAY = 300                 -- how long after the clock hits 0 should the initial duel start countind down
 DUEL_START_WARN_TIME = 10               -- How many seconds to count down before each duel (added as a delay before the duel starts)
 DUEL_START_COUNTDOWN = 5                -- How many seconds to count down before each duel (added as a delay before the duel starts)
 DUEL_TIMEOUT = 90                       -- Time before the duel starts counting down to end in a stalemate
@@ -75,7 +75,7 @@ DUEL_INTERVAL = 480                     -- time from duel ending until dnext due
 DUEL_START_PROTECTION_TIME = 2          -- duel start protection duration
 
 -- CapturePoints
-INITIAL_CAPTURE_POINT_DELAY = 900       -- how long after the clock hits 0 should the CapturePoint duel start countind down
+INITIAL_CAPTURE_POINT_DELAY = 600       -- how long after the clock hits 0 should the CapturePoint duel start countind down
 CAPTURE_FIRST_WARN = 60                 -- how many seconds before spawn of capture points the first ping on minimap will show
 CAPTURE_SECOND_WARN = 30                -- how many seconds before spawn of capture points the second ping on minimap will show
 CAPTURE_START_COUNTDOWN = 5             -- How many seconds to count down before each CapturePoint (added as a delay before the duel starts)
