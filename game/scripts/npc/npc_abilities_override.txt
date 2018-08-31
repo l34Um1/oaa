@@ -581,4 +581,5 @@
   "item_invis_sword"			  "REMOVE"
   "item_talisman_of_evasion"      "REMOVE"
   "item_diffusal_blade"           "REMOVE"
+  "item_solar_crest"			  "REMOVE"
 }
