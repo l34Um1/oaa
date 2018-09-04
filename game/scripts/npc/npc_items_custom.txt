@@ -173,6 +173,18 @@
 // #base "items/item_black_king_bar_3.txt"
 // #base "items/item_black_king_bar_4.txt"
 // #base "items/item_black_king_bar_5.txt"
+
+#base "items/item_black_king_bar_status.txt"
+#base "items/item_black_king_bar_status_2.txt"
+#base "items/item_black_king_bar_status_3.txt"
+#base "items/item_black_king_bar_status_4.txt"
+#base "items/item_black_king_bar_status_5.txt"
+#base "items/item_black_king_bar_magic.txt"
+#base "items/item_black_king_bar_magic_2.txt"
+#base "items/item_black_king_bar_magic_3.txt"
+#base "items/item_black_king_bar_magic_4.txt"
+#base "items/item_black_king_bar_magic_5.txt"
+
 #base "items/item_blade_mail.txt"
 // #base "items/item_blade_mail_2.txt"
 // #base "items/item_blade_mail_3.txt"
