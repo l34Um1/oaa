@@ -40,6 +40,7 @@
 #base "heroes/queenofpain.txt"
 #base "heroes/shadow_demon.txt"
 #base "heroes/shadow_shaman.txt"
+#base "heroes/skeleton_king.txt"
 #base "heroes/silencer.txt"
 #base "heroes/skywrath_mage.txt"
 #base "heroes/slardar.txt"
