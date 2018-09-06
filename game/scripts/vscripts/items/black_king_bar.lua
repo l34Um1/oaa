@@ -126,7 +126,7 @@ function modifier_item_black_king_bar_magic_immune:DeclareFunctions ()
 end
 
 function modifier_item_black_king_bar_magic_immune:GetAbsoluteNoDamageMagical ()
-  return true
+  return 1
 end
 
 function modifier_item_black_king_bar_magic_immune:GetEffectName()
