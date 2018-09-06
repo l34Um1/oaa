@@ -585,4 +585,6 @@
   "item_aether_lens"			  "REMOVE"
   "item_veil_of_discord"		  "REMOVE"
   "item_vladmir"				  "REMOVE"
+  "item_pipe"                     "REMOVE"
+  "item_force_staff"              "REMOVE"
 }
