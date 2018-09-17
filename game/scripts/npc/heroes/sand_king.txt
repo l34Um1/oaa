@@ -1,17 +1,13 @@
 "DOTAHeroes"
 {
   //=================================================================================================================
-  // HERO: Monkey King
+  // HERO: Sandking
   //=================================================================================================================
-  "npc_dota_hero_monkey_king"
+  "npc_dota_hero_sand_king"
   {
     // Abilities
     //-------------------------------------------------------------------------------------------------------------
-    "Ability1"		"kunkka_torrent"
-    "Ability2"		"weaver_shukuchi"
-    "Ability3"		"sohei_momentum"
-    "Ability4"		""
-    "Ability5"		""
-    "Ability6"		"weaver_time_lapse"
+    "Ability2"		"magnataur_skewer"
+    "Ability6"		"enigma_black_hole"
   }
 }

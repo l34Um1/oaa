@@ -48,12 +48,12 @@
       "01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"trigger_distance"			"300"
+				"trigger_distance"			"1200"
 			}
 			"02"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"knockback_distance"		"300"
+				"knockback_distance"		"0"
 			}
 			"03"
 			{
@@ -68,7 +68,7 @@
 			"05"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"crit_damage"				"130 140 150 160 170 185"
+				"crit_damage"				"150 180 210 240 270 300"
 			}
 			"06"
 			{

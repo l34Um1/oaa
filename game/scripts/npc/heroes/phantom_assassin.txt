@@ -1,17 +1,12 @@
 "DOTAHeroes"
 {
   //=================================================================================================================
-  // HERO: Monkey King
+  // HERO: Phantom Assassin
   //=================================================================================================================
-  "npc_dota_hero_monkey_king"
+  "npc_dota_hero_phantom_assassin"
   {
     // Abilities
     //-------------------------------------------------------------------------------------------------------------
-    "Ability1"		"kunkka_torrent"
-    "Ability2"		"weaver_shukuchi"
-    "Ability3"		"sohei_momentum"
-    "Ability4"		""
-    "Ability5"		""
-    "Ability6"		"weaver_time_lapse"
+    "Ability6"   "tusk_walrus_punch"
   }
 }
